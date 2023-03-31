@@ -2,15 +2,10 @@
     body{
         max-width: 600px;
     }
-    main{
-    }
-    .div-principal{
-    }
     .display{
         display: grid;
         grid-template-columns: repeat(2, 300px);
         grid-template-rows: repeat(1, 450px);
-        
     }
     .div-img img{
         display: none;
@@ -27,5 +22,4 @@
     .div-content h1{
         margin: 15px 0;
     }
-    
 }   
