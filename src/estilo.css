@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    margin: 15px auto;
+    background-color: beige;
+    width: 90vw;
+}
+.div-img img{
+    width: 90vw;
+    background-size: contain;
+    background-repeat: none;
+    border-radius: 10px 10px 0 0;
+}
+.div-principal{
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+}
+.div-content{
+    margin: 2% 5%;
+}
+.div-content h1{
+    font-size: 35px;
+    font-family: 'Montserrat';
+    font-weight: 500, 700;
+}
+.div-content h2{
+    font-size: 16px;
+    font-variant: small-caps;
+    margin-bottom: 2%;
+    letter-spacing: 5px;
+    color: hsl(228, 12%, 48%);
+    font-weight: 100;
+}
+.div-content p{
+    line-height: 1.5;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+    margin: 3% 0 5% 0;
+}
+.valor span{
+    font-size: 32px;
+    margin-right: .7em;
+    color: hsl(158, 36%, 37%);
+    font-family: 'Fraunces';
+    font-weight: 700;
+}
+button{
+    width: 100%;
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 2% 0 5% 0;
+    font-size: 15px;
+    cursor: pointer;
+}
+button img{
+    margin-right: 5px;
+}
+button:hover{
+    background-color: hsl(158, 36%, 24%);
+}

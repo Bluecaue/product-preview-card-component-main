@@ -1,0 +1,1 @@
+Segundo projeto do frontend mentor, continua sendo básico, mas fiz com intuito de treinar e ver como estou.
